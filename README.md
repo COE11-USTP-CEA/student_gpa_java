@@ -9,7 +9,7 @@ The point of this homework is to make use of what you've learn during the lab se
 # Requirements
 
 * Get a copy of your new repo in your github account.
-    * You'll learn how to get a copy by reading the github guides. Refer to the the syllabus repo.
+    * You'll learn how to get a copy by reading the github guides. Refer to the syllabus repo.
 * Edit the README.md file using github and add your name at the bottom of said file.
 
 # Bonus
